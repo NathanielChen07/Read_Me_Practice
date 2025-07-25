@@ -2,6 +2,13 @@
 
 This blank repository was created to practice writing a good Read Me
 
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Navigation](#navigation)
+4. [Contributing](#contributing)
+5. [License](#license)
+
 ## Installation
 
 ```bash
@@ -14,7 +21,7 @@ pip install test
 import test
 ```
 
-## How to Navigate the Repo (TIER 4.0)
+## Navigation
 
 ```text
 Project/
