@@ -1,6 +1,6 @@
 # Read_Me_Practice
 
-This Read Me was created to practice writing a good Read Me
+This blank repository was created to practice writing a good Read Me
 
 ## Installation
 
